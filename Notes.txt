@@ -1,0 +1,28 @@
+Notes TA :
+1. GUI (100%) :
+   - Button belum bisa input video (O)
+   - View belum menarik (O)
+
+2. Proses Deteksi (100%) :
+   - Belum ada grid 16x16 (Gak Pake & O)
+   - Perhitungan akurasi (O)
+   - Indikator jumlah objek yang terdeteksi (O)
+   - Belum bisa capture setiap ada objek yang terdeteksi (O)
+
+3. Jurnal (100000/20)
+
+4. Paper (90%)
+
+5. Pertanyaan buat bimbingan :
+  - Apakah perlu membuat grid 16x16 di pendeteksiannya? (Clear)
+  - Cara ngecapture setiap sampah yang terdeteksi (Clear)
+  - Cara perhitungan akurasinya (Clear)
+  - Tanyakan soal UInya (Clear)
+  - Perlu database atau tidak (Clear)
+
+6. Hasil codingan :
+   - Isi array frame_diff_list :
+      frame_diff_list: [1, 2, 3, ..., 39, 40]
+      frame_diff_list: [41, 42, 43, ..., 79, 80]
+      ...
+      frame_diff_list: [5321, 5322, 5323, ..., 5359, 5360]
